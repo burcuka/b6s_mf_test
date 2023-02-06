@@ -1,0 +1,3 @@
+define view entity buffer on zbk_DDTST_DTEBVE
+  layer localization
+  type full
